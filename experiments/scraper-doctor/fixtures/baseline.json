@@ -1,0 +1,7 @@
+[
+  {"asin":"A1","title":"Product A","price":19.99,"rating":4.5},
+  {"asin":"A2","title":"Product B","price":29.99,"rating":4.2},
+  {"asin":"A3","title":"Product C","price":39.99,"rating":4.8},
+  {"asin":"A4","title":"Product D","price":49.99,"rating":4.1},
+  {"asin":"A5","title":"Product E","price":59.99,"rating":4.7}
+]
